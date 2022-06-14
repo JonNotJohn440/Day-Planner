@@ -16,4 +16,5 @@ Once you are done, click the save icon and the note will be saved to your localS
 ```
 ## Build
 ```md
-This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery. The [Moment.js](https://momentjs.com/) library was also used to work with date and time.
+This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery. 
+The [Moment.js](https://momentjs.com/) library was also used to work with date and time.
